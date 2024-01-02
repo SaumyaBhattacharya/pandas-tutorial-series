@@ -1,0 +1,235 @@
+Rank,Country,Population2023,YearlyChange,Trend
+1,India,1428627663,0.81%,Increasing
+2,China,1425671352,-0.02%,Decreasing
+3,United States,339996563,0.50%,Increasing
+4,Indonesia,277534122,,
+5,Pakistan,240485658,1.98%,Increasing
+6,Nigeria,,,Increasing
+7,Brazil,216422446,0.52%,Increasing
+8,Bangladesh,172954319,1.03%,Increasing
+9,Russia,144444359,-0.19%,Decreasing
+10,Mexico,128455567,0.75%,Increasing
+11,Ethiopia,126527060,2.55%,Increasing
+12,Japan,123294513,-0.53%,Decreasing
+13,Philippines,117337368,1.54%,Increasing
+14,Egypt,,1.56%,Increasing
+15,DR Congo,102262808,3.29%,
+16,Vietnam,98858950,0.68%,
+17,Iran,,,
+18,Turkey,85816199,0.56%,Increasing
+19,Germany,83294633,-0.09%,Decreasing
+20,Thailand,71801279,0.15%,Increasing
+21,United Kingdom,67736802,0.34%,Increasing
+22,Tanzania,67438106,2.96%,Increasing
+23,France,64756584,0.20%,Increasing
+24,South Africa,60414495,0.87%,Increasing
+25,Italy,58870762,-0.28%,Decreasing
+26,Kenya,55100586,1.99%,Increasing
+27,Myanmar,54577997,0.74%,Increasing
+28,Colombia,52085168,0.41%,Increasing
+29,South Korea,51784059,-0.06%,Decreasing
+30,Uganda,48582334,2.82%,Increasing
+31,Sudan,48109006,2.63%,Increasing
+32,Spain,47519628,-0.08%,Decreasing
+33,Argentina,45773884,0.58%,Increasing
+34,Algeria,45606480,1.57%,Increasing
+35,Iraq,45504560,2.27%,Increasing
+36,Afghanistan,42239854,2.70%,Increasing
+37,Poland,41026067,2.93%,Increasing
+38,Canada,38781291,0.85%,Increasing
+39,Morocco,37840044,1.02%,Increasing
+40,Saudi Arabia,36947025,1.48%,Increasing
+41,Ukraine,36744634,-7.45%,Decreasing
+42,Angola,36684202,3.08%,Increasing
+43,Uzbekistan,35163944,1.55%,Increasing
+44,Yemen,34449825,2.24%,Increasing
+45,Peru,34352719,0.89%,Increasing
+46,Malaysia,34308525,1.09%,Increasing
+47,Ghana,34121985,1.93%,Increasing
+48,Mozambique,33897354,2.81%,Increasing
+49,Nepal,30896590,1.14%,Increasing
+50,Madagascar,30325732,2.41%,Increasing
+51,Côte d'Ivoire,28873034,2.53%,Increasing
+52,Venezuela,28838499,1.90%,Increasing
+53,Cameroon,28647293,2.63%,Increasing
+54,Niger,27202843,3.80%,Increasing
+55,Australia,26439111,1.00%,Increasing
+56,North Korea,26160821,0.35%,Increasing
+57,Taiwan,23923276,0.13%,Increasing
+58,Mali,23293698,3.10%,Increasing
+59,Burkina Faso,23251485,2.55%,Increasing
+60,Syria,23227014,4.98%,Increasing
+61,Sri Lanka,21893579,0.28%,Increasing
+62,Malawi,20931751,2.58%,Increasing
+63,Zambia,20569737,2.76%,Increasing
+64,Romania,19892812,1.19%,Increasing
+65,Chile,19629590,0.13%,Increasing
+66,Kazakhstan,19606633,1.08%,Increasing
+67,Chad,18278568,3.13%,Increasing
+68,Ecuador,18190484,1.05%,Increasing
+69,Somalia,18143378,3.10%,Increasing
+70,Guatemala,18092026,1.39%,Increasing
+71,Senegal,17763163,2.58%,Increasing
+72,Netherlands,17618299,0.31%,Increasing
+73,Cambodia,16944826,1.06%,Increasing
+74,Zimbabwe,16665409,2.11%,Increasing
+75,Guinea,14190612,2.39%,Increasing
+76,Rwanda,14094683,2.31%,Increasing
+77,Benin,13712828,2.70%,Increasing
+78,Burundi,13238559,2.71%,Increasing
+79,Tunisia,12458223,0.83%,Increasing
+80,Bolivia,12388571,1.35%,Increasing
+81,Haiti,11724763,1.21%,Increasing
+82,Belgium,11686140,0.26%,Increasing
+83,Jordan,11337052,0.45%,Increasing
+84,Dominican Republic,11332972,0.93%,Increasing
+85,Cuba,11194449,-0.16%,Decreasing
+86,South Sudan,11088796,1.61%,Increasing
+87,Sweden,10612086,0.59%,Increasing
+88,Honduras,10593798,1.54%,Increasing
+89,Czech Republic (Czechia),10495295,0.01%,Increasing
+90,Azerbaijan,10412651,0.53%,Increasing
+91,Greece,10341277,-0.42%,Decreasing
+92,Papua New Guinea,10329931,1.85%,Increasing
+93,Portugal,10247605,-0.23%,Decreasing
+94,Hungary,10156239,1.90%,Increasing
+95,Tajikistan,10143543,1.92%,Increasing
+96,United Arab Emirates,9516871,0.80%,Increasing
+97,Belarus,9498238,-0.39%,Decreasing
+98,Israel,9174520,1.51%,Increasing
+99,Togo,9053799,2.32%,Increasing
+100,Austria,8958960,0.22%,Increasing
+101,Switzerland,8796669,0.64%,Increasing
+102,Sierra Leone,8791092,2.15%,Increasing
+103,Laos,7633779,1.39%,Increasing
+104,Hong Kong,7491609,0.04%,Increasing
+105,Serbia,7149077,-1.00%,Decreasing
+106,Nicaragua,7046310,1.41%,Increasing
+107,Libya,6888388,1.12%,Increasing
+108,Paraguay,6861524,1.19%,Increasing
+109,Kyrgyzstan,6735347,1.58%,Increasing
+110,Bulgaria,6687717,-1.39%,Decreasing
+111,Turkmenistan,6516100,1.33%,Increasing
+112,El Salvador,6364943,0.45%,Increasing
+113,Congo,6106869,2.29%,Increasing
+114,Singapore,6014723,0.65%,Increasing
+115,Denmark,5910913,0.49%,Increasing
+116,Slovakia,5795199,2.69%,Increasing
+117,Central African Republic,5742315,2.92%,Increasing
+118,Finland,5545475,0.09%,Increasing
+119,Norway,5474360,0.74%,Increasing
+120,Liberia,5418377,2.18%,Increasing
+121,State of Palestine,5371230,2.31%,Increasing
+122,Lebanon,5353930,-2.47%,Decreasing
+123,New Zealand,5228100,0.83%,Increasing
+124,Costa Rica,5212173,0.60%,Increasing
+125,Ireland,5056935,0.67%,Increasing
+126,Mauritania,4862989,2.68%,Increasing
+127,Oman,4644384,1.49%,Increasing
+128,Panama,4468087,1.35%,Increasing
+129,Kuwait,4310108,0.97%,Increasing
+130,Croatia,4008617,-0.54%,Decreasing
+131,Eritrea,3748901,1.76%,Increasing
+132,Georgia,3728282,-0.43%,Decreasing
+133,Mongolia,3447157,1.44%,Increasing
+134,Moldova,3435931,4.98%,Increasing
+135,Uruguay,3423108,0.01%,Increasing
+136,Puerto Rico,3260314,0.24%,Increasing
+137,Bosnia and Herzegovina,3210847,-0.70%,Decreasing
+138,Albania,2832439,-0.35%,Decreasing
+139,Jamaica,2825544,-0.06%,Decreasing
+140,Armenia,2777970,-0.09%,Decreasing
+141,Gambia,2773168,2.48%,Increasing
+142,Lithuania,2718352,-1.15%,Decreasing
+143,Qatar,2716391,0.79%,Increasing
+144,Botswana,2675352,1.71%,Increasing
+145,Namibia,2604172,1.45%,Increasing
+146,Gabon,2436566,1.99%,Increasing
+147,Lesotho,2330318,1.06%,Increasing
+148,Guinea-Bissau,2150842,2.15%,Increasing
+149,Slovenia,2119675,-0.01%,Decreasing
+150,North Macedonia,2085679,-0.38%,Decreasing
+151,Latvia,1830211,-1.10%,Decreasing
+152,Equatorial Guinea,1714671,2.37%,Increasing
+153,Trinidad and Tobago,1534937,0.25%,Increasing
+154,Bahrain,1485509,0.90%,Increasing
+155,Timor-Leste,1360596,1.44%,Increasing
+156,Estonia,1322765,-0.25%,Decreasing
+157,Mauritius,1300557,0.08%,Increasing
+158,Cyprus,1260138,0.69%,Increasing
+159,Eswatini,1210822,0.76%,Increasing
+160,Djibouti,1136455,1.39%,Increasing
+161,Réunion,981796,0.80%,Increasing
+162,Fiji,936375,0.71%,Increasing
+163,Comoros,852075,1.83%,Increasing
+164,Guyana,813834,0.63%,Increasing
+165,Bhutan,787424,0.64%,Increasing
+166,Solomon Islands,740424,2.23%,Increasing
+167,Macao,704149,1.29%,Increasing
+168,Luxembourg,654768,1.11%,Increasing
+169,Montenegro,626485,-0.10%,Decreasing
+170,Suriname,623236,0.84%,Increasing
+171,Cabo Verde,598682,0.93%,Increasing
+172,Western Sahara,587259,1.96%,Increasing
+173,Micronesia,544321,0.98%,Increasing
+174,Malta,535064,0.33%,Increasing
+175,Maldives,521021,-0.53%,Decreasing
+176,Brunei ,452524,0.78%,Increasing
+177,Bahamas,412623,0.64%,Increasing
+178,Belize,410825,1.37%,Increasing
+179,Guadeloupe,395839,0.02%,Increasing
+180,Iceland,375318,0.65%,Increasing
+181,Martinique,366981,-0.14%,Decreasing
+182,Mayotte,335995,3.03%,Increasing
+183,Vanuatu,334506,2.38%,Increasing
+184,French Guiana,312155,2.49%,Increasing
+185,French Polynesia,308872,0.85%,Increasing
+186,New Caledonia,292991,1.05%,Increasing
+187,Barbados,281995,0.13%,Increasing
+188,Sao Tome & Principe,231856,1.97%,Increasing
+189,Samoa,225681,1.48%,Increasing
+190,Curaçao,192077,0.48%,Increasing
+191,Saint Lucia,180251,0.22%,Increasing
+192,Guam,172952,0.69%,Increasing
+193,Kiribati,133515,1.74%,Increasing
+194,Grenada,126183,0.59%,Increasing
+195,Tonga,107773,0.86%,Increasing
+196,Seychelles,107660,0.51%,Increasing
+197,Aruba,106277,-0.16%,Decreasing
+198,St. Vincent & Grenadines,103698,-0.24%,Decreasing
+199,U.S. Virgin Islands,98750,-0.72%,Decreasing
+200,Antigua and Barbuda,94298,0.57%,Increasing
+201,Isle of Man,84710,0.23%,Increasing
+202,Andorra,80088,0.33%,Increasing
+203,Dominica,73040,0.42%,Increasing
+204,Cayman Islands,69310,0.88%,Increasing
+205,Bermuda,64069,-0.18%,Decreasing
+206,Greenland,56643,0.31%,Increasing
+207,Faeroe Islands,53270,0.34%,Increasing
+208,Northern Mariana Islands,49796,0.49%,Increasing
+209,Saint Kitts & Nevis,47755,0.21%,Increasing
+210,Turks and Caicos,46062,0.79%,Increasing
+211,Sint Maarten,44222,0.11%,Increasing
+212,American Samoa,43914,-0.81%,Decreasing
+213,Marshall Islands,41996,1.03%,Increasing
+214,Liechtenstein,39584,0.65%,Increasing
+215,Monaco,36297,-0.47%,Decreasing
+216,San Marino,33642,-0.05%,Decreasing
+217,Gibraltar,32688,0.12%,Increasing
+218,Saint Martin,32077,0.90%,Increasing
+219,British Virgin Islands,31538,0.74%,Increasing
+220,Caribbean Netherlands,27148,0.45%,Increasing
+221,Palau,18058,0.02%,Increasing
+222,Cook Islands,17044,0.19%,Increasing
+223,Anguilla,15899,0.26%,Increasing
+224,Nauru,12780,0.88%,Increasing
+225,Wallis & Futuna,11502,-0.60%,Decreasing
+226,Tuvalu,11396,0.74%,Increasing
+227,Saint Barthelemy,10994,0.25%,Increasing
+228,Saint Pierre & Miquelon,5840,-0.38%,Decreasing
+229,Saint Helena,5314,-1.12%,Decreasing
+230,Montserrat,4386,-0.09%,Decreasing
+231,Falkland Islands,3791,0.29%,Increasing
+232,Niue,1935,0.05%,Increasing
+233,Tokelau,1893,1.18%,Increasing
+234,Holy See,518,1.57%,Increasing
